@@ -3,7 +3,7 @@ Welcome to the Country23 Project
 
 ## Project Report
 - 🗎 [Project Report PDF](./Country23.pdf)
-- 📹 [Watch the Video Presentation]**Being updated. Will be back online soon  
+- 📹 [Watch the Video Presentation](https://www.youtube.com/watch?v=J97MNbxcq7s)  
   *Note: Use the chapters listed in the description box to navigate through the video, as chapters may not always appear on the progress bar.*
 
 ## Project Notebooks
